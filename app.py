@@ -3,7 +3,7 @@ import openai
 import os
 from dotenv import load_dotenv
 import requests
-import json
+
 
 # Set your OpenAI API key here
 #load_dotenv()
